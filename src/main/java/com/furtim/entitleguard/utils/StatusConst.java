@@ -1,0 +1,7 @@
+package com.furtim.entitleguard.utils;
+
+public enum StatusConst {
+	
+	DRAFT,ENTITLEMENT,READY_FOR_REVIEW,CREATED,REVIEW,INPROGRESS,ASSINGED,ASSIGNED_TO_VENDOR,AWAITING_VENDOR_ACTION
+
+}
